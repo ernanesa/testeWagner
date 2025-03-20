@@ -7,6 +7,8 @@ Página simples com uma mensagem para o Waguinho.
 Esta página está hospedada no GitHub Pages e pode ser acessada em:
 https://ernanesa.github.io/testeWagner/
 
+[Clique aqui para acessar a página](https://ernanesa.github.io/testeWagner/)
+
 ## Conteúdo
 
 A página contém uma simples mensagem: "E ae Waguinho!"
